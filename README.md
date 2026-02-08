@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/me.surajgupta/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://linkedin.com/in/dsfecewdfeswd">
+<a href="[https://linkedin.com/in/dsfecewdfeswd](https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
 <a href="mailto:surajgupta05086@gmail.com">
