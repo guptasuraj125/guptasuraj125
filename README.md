@@ -1,177 +1,158 @@
-<!-- ================================================= -->
-<!--          CLEAN & RESPONSIVE GITHUB README         -->
-<!-- ================================================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Suraj%20Krishna%20Gupta&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20AI%20Enthusiast&descAlignY=58&descSize=15&descColor=c0b8f0" />
+
+</div>
 
 <div align="center">
 
-# 👋 Hey, I'm Suraj Gupta
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Scalable+MERN+Applications;React+Native+%7C+Real-time+Systems;Learning+AI+%26+System+Design;Turning+Ideas+into+Products" />
 
-### MERN Stack Developer • React Native Developer • AI Enthusiast
+</div>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+Native+Developer;Backend+Systems+%26+Real-time+Apps;Learning+AI+%26+System+Design;Turning+Ideas+Into+Products+🚀"
-    alt="Typing Animation"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/guptasuraj125">
-    <img src="https://img.shields.io/github/followers/guptasuraj125?style=flat-square&color=orange&label=Followers"/>
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgupta05086@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guptasuraj125)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me.surajgupta/)
 
-  <img src="https://komarev.com/ghpvc/?username=guptasuraj125&style=flat-square&color=orange"/>
-
-  <img src="https://img.shields.io/github/stars/guptasuraj125?style=flat-square&color=orange"/>
-</p>
+[![Followers](https://img.shields.io/github/followers/guptasuraj125?style=flat-square&color=A78BFA&label=Followers&labelColor=1a1a2e)](https://github.com/guptasuraj125)
+[![Stars](https://img.shields.io/github/stars/guptasuraj125?style=flat-square&color=A78BFA&label=Stars&labelColor=1a1a2e)](https://github.com/guptasuraj125)
+[![Profile Views](https://komarev.com/ghpvc/?username=guptasuraj125&style=flat-square&color=A78BFA&label=Profile+Views)](https://github.com/guptasuraj125)
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
 ```yaml
-name: Suraj Gupta
+name       : Suraj Krishna Gupta
+role       : Full Stack MERN Developer
+location   : Thane, Maharashtra, India
+education  : B.Sc IT — 6th Semester
 
-role: Full Stack MERN Developer
-
-location: Maharashtra, India
-
-currently_building:
+building   :
   - Full Stack MERN Applications
-  - React Native Apps
-  - Real-time Systems
+  - React Native Mobile Apps
+  - Real-time Systems with Socket.io
   - AI-powered Products
 
-currently_learning:
-  - Generative AI
-  - System Design
-  - Cloud Infrastructure
-  - Scalable Backend Architecture
+learning   :
+  - Generative AI & LLM Architecture
+  - System Design & Scalable Backends
+  - Cloud Infrastructure (AWS)
+  - Machine Learning Fundamentals
 
-philosophy:
-  - Build consistently
-  - Learn deeply
-  - Focus on real-world projects
+philosophy : Build consistently. Learn deeply. Ship real things.
 ```
 
 ---
 
-# 🌐 Connect With Me
+## ⚡ Tech Stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+### 🖥️ Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,vite,tailwind,html,css&perline=8" />
 
-<a href="mailto:surajgupta05086@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+### 🔧 Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mongodb,firebase&perline=6" />
 
-<a href="https://github.com/guptasuraj125">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
+### 📱 Mobile
+<img src="https://skillicons.dev/icons?i=react,expo&perline=2" />
+
+### ☁️ Cloud, DevOps & Tools
+<img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,git,github,postman,vscode&perline=8" />
+
+### 🤖 AI & Vision
+<img src="https://skillicons.dev/icons?i=python,opencv&perline=2" />
 
 </div>
 
 ---
 
-# ⚡ Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=5"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://nirzak-streak-stats.vercel.app/?user=guptasuraj125&theme=tokyonight&hide_border=true" />
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4"/>
+</div>
 
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=react,expo&perline=2"/>
+<div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5"/>
-
-### Tools & Cloud
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel,netlify&perline=8"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
 ---
 
-# 🚀 What I Do
+## 📈 Contribution Activity
 
 <div align="center">
 
-| 💻 Development | ⚡ Expertise |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=guptasuraj125&theme=tokyo-night&hide_border=true&area=true)](https://github.com/guptasuraj125)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" />
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+| Status | Goal |
+|:---:|---|
+| 🔄 | Master advanced MERN architecture & system design |
+| 🔄 | Ship 3 production-grade AI-integrated products |
+| 🔄 | Go deep on LLMs, RAG, and vector databases |
+| 🔄 | Crack top software engineering placements |
+| 🔄 | Contribute to meaningful open source projects |
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+| Area | Stack |
 |---|---|
-| Frontend Apps | React & Next.js |
-| Backend APIs | Node.js & Express |
-| Databases | MongoDB & Firebase |
-| Mobile Apps | React Native |
-| Real-time Apps | Socket.io |
-| Deployment | AWS, Vercel, Netlify |
+| **Full Stack Web Apps** | React, Next.js, Node.js, MongoDB |
+| **REST & Realtime APIs** | Express.js, FastAPI, Socket.io |
+| **Mobile Applications** | React Native, Expo |
+| **AI-Integrated Systems** | Python, FastAPI, OpenCV |
+| **Cloud Deployments** | AWS, Vercel, Netlify |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true"/>
+### 💬 Got a project idea or want to collaborate?
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/)
+[![Email](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surajgupta05086@gmail.com)
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guptasuraj125&theme=tokyo-night&hide_border=true"/>
+**⚡ Code &nbsp;•&nbsp; Build &nbsp;•&nbsp; Improve &nbsp;•&nbsp; Repeat**
 
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🎯 Current Goals
-
-```txt
-✓ Build scalable full stack applications
-✓ Master advanced MERN architecture
-✓ Learn AI Engineering deeply
-✓ Create impactful SaaS products
-✓ Crack top software engineering placements
-```
-
----
-
-<div align="center">
-
-### ⚡ Code • Build • Improve • Repeat
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
 
 </div>
