@@ -1,39 +1,27 @@
-<!-- ===================================================== -->
-<!--            MODERN CLEAN RESPONSIVE README             -->
-<!-- ===================================================== -->
+<!-- ================================================= -->
+<!--            PREMIUM MINIMAL GITHUB README          -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:0F172A&height=220&section=header&text=Suraj%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20React%20Native%20Developer%20•%20AI%20Explorer&descAlignY=58"/>
+# Suraj Gupta
 
-</div>
+### Full Stack MERN Developer • React Native Developer • AI Enthusiast
 
----
-
-<div align="center">
-
-# 👋 Building Modern Full Stack Experiences
+<br/>
 
 <img 
-src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=F97316&center=true&vCenter=true&width=850&lines=Full+Stack+MERN+Developer;React+Native+Developer;Backend+Systems+%26+REST+APIs;Real-time+Applications;Learning+AI+%26+System+Design;Focused+on+Building+Scalable+Products+🚀"
+src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=850&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+Developer;React+Native+Developer;Backend+Systems+%26+REST+APIs;Learning+AI+%26+System+Design;Focused+on+Creating+Real+World+Products"
 />
 
 <br/>
 <br/>
 
 <a href="https://github.com/guptasuraj125">
-<img src="https://img.shields.io/github/followers/guptasuraj125?style=for-the-badge&color=F97316&labelColor=0F172A"/>
+<img src="https://img.shields.io/github/followers/guptasuraj125?style=for-the-badge&label=Followers&color=181717"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=guptasuraj125&style=for-the-badge&color=F97316&labelColor=0F172A"/>
-
-<a href="mailto:surajgupta05086@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=guptasuraj125&style=for-the-badge&color=181717"/>
 
 </div>
 
@@ -41,46 +29,50 @@ src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&durat
 
 # 💫 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="60%" align="left">
-
 ```yaml
 name: Suraj Gupta
 
 role: Full Stack MERN Developer
 
-specialization:
-  - Scalable MERN Applications
+focus:
+  - Full Stack Web Applications
   - React Native Mobile Apps
-  - REST APIs & Backend Systems
+  - Backend APIs & Authentication
   - Real-time Applications
 
 currently_learning:
   - Generative AI
   - System Design
   - Cloud Infrastructure
-  - Advanced Backend Architecture
+  - Advanced Backend Engineering
 
 developer_mindset:
   - Clean Code
-  - Real-world Projects
-  - Continuous Learning
-  - Consistency Over Motivation
+  - Consistent Improvement
+  - Real-world Problem Solving
 ```
 
-</td>
+---
 
-<td width="40%" align="center">
+# 🌐 Connect
 
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<div align="center">
 
-</td>
+<a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
+</a>
 
-</tr>
-</table>
+<a href="mailto:surajgupta05086@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
+</a>
+
+<a href="https://github.com/guptasuraj125">
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
+</a>
+
+<a href="https://www.instagram.com/me.surajgupta/">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"/>
+</a>
 
 </div>
 
@@ -90,51 +82,50 @@ developer_mindset:
 
 <div align="center">
 
-### Frontend Development
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite"/>
 
----
+<br/>
 
-### Backend Development
+### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
 
----
+<br/>
 
-### Mobile Development
+### Mobile
 
-<img src="https://skillicons.dev/icons?i=react,expo&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,expo"/>
 
----
+<br/>
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css"/>
 
----
+<br/>
 
-### Cloud & Tools
+### Tools & Cloud
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel,netlify&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,docker,vercel,netlify"/>
 
 </div>
 
 ---
 
-# 🚀 Development Focus
+# 🚀 Current Focus
 
 <div align="center">
 
-| Area | Technologies |
+| Development | Technologies |
 |---|---|
-| ⚛️ Frontend | React.js, Next.js, TailwindCSS |
-| 🔥 Backend | Node.js, Express.js |
-| 🗄️ Database | MongoDB, Firebase |
-| 📱 Mobile Apps | React Native, Expo |
-| ⚡ Real-time Systems | Socket.io |
-| ☁️ Deployment | AWS, Vercel, Netlify |
-| 🤖 AI Integrations | OpenAI APIs |
+| Frontend Engineering | React.js, Next.js |
+| Backend Development | Node.js, Express.js |
+| Database Management | MongoDB, Firebase |
+| Mobile App Development | React Native |
+| Real-time Systems | Socket.io |
+| Cloud & Deployment | AWS, Vercel |
 
 </div>
 
@@ -144,9 +135,9 @@ developer_mindset:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -154,13 +145,13 @@ developer_mindset:
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -174,46 +165,26 @@ developer_mindset:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&margin-w=8"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Goals
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🚀 Build SaaS Products</td>
-<td align="center">⚡ Master MERN Stack</td>
-<td align="center">🤖 Learn AI Engineering</td>
-</tr>
-
-<tr>
-<td align="center">☁️ Improve Cloud Skills</td>
-<td align="center">📱 Create Mobile Apps</td>
-<td align="center">💼 Crack Top Placements</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 💭 Philosophy
-
-<div align="center">
-
-### “Build consistently. Learn deeply. Ship impactful products.”
-
-</div>
+```txt
+→ Build production-level SaaS applications
+→ Master scalable backend architecture
+→ Learn advanced AI engineering
+→ Create impactful digital products
+→ Become an elite software engineer
+```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F97316&height=140&section=footer"/>
+### Code • Build • Improve • Repeat ⚡
 
 </div>
