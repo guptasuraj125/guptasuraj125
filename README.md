@@ -1,105 +1,132 @@
-<div align="center">
-  <h1>Suraj Krishna Gupta</h1>
-  <p>Full Stack Developer &nbsp;·&nbsp; AI Engineer in Progress &nbsp;·&nbsp; Thane, India</p>
-  <p>
-    <a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/me.surajgupta/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="mailto:surajgupta05086@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Building Scalable Digital Experiences
+</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;AI+Engineer+in+Progress;Building+Modern+Web+%26+Mobile+Apps"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
-B.Sc IT student (6th Semester) building full-stack web applications and AI-integrated systems. I care about clean architecture, real-time performance, and shipping things that actually work.
+## 🚀 About Me
 
-Currently deepening my understanding of machine learning and generative AI — not just as tools to use, but as systems to design and deploy.
-
----
-
-## What I work with
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-
-**Database & AI**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- 🎓 B.Sc IT Student (6th Semester)
+- 📍 Based in Thane, Maharashtra
+- 💻 Passionate about Full Stack Development & AI Systems
+- ⚡ Building scalable web & mobile applications
+- 🌱 Currently learning:
+  - Machine Learning
+  - Generative AI
+  - System Design
+  - Cloud Architecture
+- 🎯 Goal: Become a world-class Software Engineer
 
 ---
 
-## GitHub Stats
+## 🌐 Connect With Me
 
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&rank_icon=github" />
-  &nbsp;&nbsp;
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=default&hide_border=true&count_private=true" />
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<br />
+<a href="mailto:surajgupta05086@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptasuraj125&theme=minimal&hide_border=true&area=true" />
-</div>
-
----
-
-## Currently
-
-- Studying machine learning fundamentals and LLM architecture
-- Building AI-integrated REST APIs with Python and FastAPI
-- Exploring vector databases and retrieval-augmented generation
-- Reading *Designing Data-Intensive Applications* — Kleppmann
+<a href="https://www.instagram.com/me.surajgupta/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## Open to
+# 🛠️ Tech Stack
 
-Collaborations on full-stack or AI projects. Reach me on [LinkedIn](https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/) or at [surajgupta05086@gmail.com](mailto:surajgupta05086@gmail.com).
+### 👨‍💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=guptasuraj125&icon=0&color=1" />
-</div>
+### ⚛️ Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer)
+
+---
+
+### 🧠 Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![ExpressJS](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+
+---
+
+### ☁️ Tools & Platforms
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📌 Current Focus
+
+```yaml
+Building:
+  - Full Stack Applications
+  - AI-powered Systems
+  - Real-time Applications
+
+Learning:
+  - Generative AI
+  - Machine Learning
+  - Cloud Infrastructure
+  - System Design
+```
+
+---
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ From <a href="https://github.com/guptasuraj125">Suraj Gupta</a>
+</p>
