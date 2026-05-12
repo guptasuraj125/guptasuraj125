@@ -1,32 +1,29 @@
-<!-- ========================================================= -->
-<!--                  ELITE GITHUB PROFILE README              -->
-<!-- ========================================================= -->
+<!-- ================================================= -->
+<!--          CLEAN & RESPONSIVE GITHUB README         -->
+<!-- ================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f0f0f,50:F97316,100:0f0f0f&text=Suraj%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20•%20React%20Native%20Developer%20•%20AI%20Explorer&descAlignY=58"/>
+# 👋 Hey, I'm Suraj Gupta
 
-</div>
+### MERN Stack Developer • React Native Developer • AI Enthusiast
 
----
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Building+Scalable+Web+Applications;React+Native+Developer;Backend+Systems+%26+Real-time+Apps;Learning+AI+%26+System+Design;Turning+Ideas+Into+Products+🚀"
+    alt="Typing Animation"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/guptasuraj125">
+    <img src="https://img.shields.io/github/followers/guptasuraj125?style=flat-square&color=orange&label=Followers"/>
+  </a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=1000&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+Developer+⚡;React+Native+Developer+📱;Backend+Systems+%26+Real-time+Apps;Learning+AI+%26+System+Design;Turning+Ideas+Into+Real+Products+🚀" />
+  <img src="https://komarev.com/ghpvc/?username=guptasuraj125&style=flat-square&color=orange"/>
 
-</div>
-
----
-
-<div align="center">
-
-<a href="https://github.com/guptasuraj125">
-<img src="https://img.shields.io/github/followers/guptasuraj125?style=for-the-badge&logo=github&label=Followers&color=F97316"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=guptasuraj125&style=for-the-badge&color=F97316"/>
-
-<img src="https://img.shields.io/github/stars/guptasuraj125?style=for-the-badge&color=F97316"/>
+  <img src="https://img.shields.io/github/stars/guptasuraj125?style=flat-square&color=orange"/>
+</p>
 
 </div>
 
@@ -34,47 +31,30 @@
 
 # 💫 About Me
 
-<div align="center">
-
-<table>
-<tr>
-<td width="58%">
-
 ```yaml
 name: Suraj Gupta
 
 role: Full Stack MERN Developer
 
-passion:
-  - Building real-world products
-  - Creating scalable systems
-  - Designing clean UI experiences
-  - Exploring AI technologies
+location: Maharashtra, India
+
+currently_building:
+  - Full Stack MERN Applications
+  - React Native Apps
+  - Real-time Systems
+  - AI-powered Products
 
 currently_learning:
   - Generative AI
   - System Design
   - Cloud Infrastructure
-  - Advanced Backend Engineering
+  - Scalable Backend Architecture
 
-tech_mindset:
+philosophy:
   - Build consistently
   - Learn deeply
-  - Focus on scalability
-  - Ship impactful products
+  - Focus on real-world projects
 ```
-
-</td>
-
-<td width="42%">
-
-<img align="center" alt="coding" width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -83,19 +63,15 @@ tech_mindset:
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/">
-<img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="mailto:surajgupta05086@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-101010?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://www.instagram.com/me.surajgupta/">
-<img src="https://img.shields.io/badge/Instagram-101010?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
 <a href="https://github.com/guptasuraj125">
-<img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
 </div>
@@ -106,25 +82,37 @@ tech_mindset:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,redux,tailwind,react,expo,firebase,aws,docker,git,github,postman,vscode&perline=10" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&perline=5"/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=4"/>
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=react,expo&perline=2"/>
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&perline=5"/>
+
+### Tools & Cloud
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,vercel,netlify&perline=8"/>
 
 </div>
 
 ---
 
-# 🚀 Development Focus
+# 🚀 What I Do
 
 <div align="center">
 
-| Area | Technologies |
+| 💻 Development | ⚡ Expertise |
 |---|---|
-| ⚛️ Frontend Development | React, Next.js, TailwindCSS |
-| 🔥 Backend Development | Node.js, Express.js |
-| 🗄️ Database Management | MongoDB, Firebase |
-| 📱 Mobile Apps | React Native, Expo |
-| ⚡ Real-time Systems | Socket.io |
-| ☁️ Deployment & Cloud | AWS, Vercel, Netlify |
-| 🤖 AI Integrations | OpenAI APIs, ML APIs |
+| Frontend Apps | React & Next.js |
+| Backend APIs | Node.js & Express |
+| Databases | MongoDB & Firebase |
+| Mobile Apps | React Native |
+| Real-time Apps | Socket.io |
+| Deployment | AWS, Vercel, Netlify |
 
 </div>
 
@@ -134,9 +122,9 @@ tech_mindset:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=guptasuraj125&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=guptasuraj125&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -144,17 +132,7 @@ tech_mindset:
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptasuraj125&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -164,46 +142,36 @@ tech_mindset:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptasuraj125&bg_color=0D1117&color=F97316&line=F97316&point=FFFFFF&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=guptasuraj125&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 Achievements
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🚀 Build SaaS Products</td>
-<td align="center">⚡ Master MERN Stack</td>
-<td align="center">🤖 Learn AI Engineering</td>
-</tr>
-
-<tr>
-<td align="center">☁️ Improve Cloud Skills</td>
-<td align="center">📱 Create Mobile Apps</td>
-<td align="center">💼 Crack Top Placements</td>
-</tr>
-</table>
+<img src="https://github-profile-trophy.vercel.app/?username=guptasuraj125&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 💭 Philosophy
+# 🎯 Current Goals
 
-<div align="center">
-
-### “Great developers are built through consistency, curiosity, and relentless execution.”
-
-</div>
+```txt
+✓ Build scalable full stack applications
+✓ Master advanced MERN architecture
+✓ Learn AI Engineering deeply
+✓ Create impactful SaaS products
+✓ Crack top software engineering placements
+```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0f0f,50:F97316,100:0f0f0f"/>
+### ⚡ Code • Build • Improve • Repeat
 
 </div>
