@@ -24,7 +24,7 @@ Full Stack Developer • AI Enthusiast • Building Scalable Systems
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/gupta-suraj-krishna-23179723b/" target="_blank">
+<a href="https://www.linkedin.com/in/gupta-suraj-23179723b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
